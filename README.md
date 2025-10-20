@@ -1,5 +1,6 @@
 # Custom-CMD-Shell-Cpp
 Mini C++ shell developed for practicing OOP concepts, file operations and parsing.
+This project was implemented as part of coursework at ETF – School of Electrical Engineering, University of Belgrade.
 
 ## 📌 Overview
 Mini C++ Shell is a custom command-line interpreter that simulates Unix-like CLI behavior.  
