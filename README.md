@@ -51,7 +51,7 @@ The main goal is to build a functional command interpreter that demonstrates:
 ## ⛓️ Pipes & Redirection
 | Feature | Example |
 |---------|---------|
-| Pipe (`|`) | `echo hello | wc` |
+| Pipe (`\|`) | `echo hello \| wc` |
 | Output redirection (`>`) | `echo test > file.txt` |
 | Append redirection (`>>`) | `echo more >> file.txt` |
 | Input redirection (`<`) | `wc < file.txt` |
